@@ -1,0 +1,7 @@
+{
+  "name": "漾里乡·蒋村漫游",
+  "description": "沉浸式水乡互动冒险游戏，收集蒋村碎片，感受乡土情怀。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
